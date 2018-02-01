@@ -1,0 +1,3 @@
+alex_jumperman_doctrine_collection_homepage:
+    path:     /
+    defaults: { _controller: AlexJumpermanDoctrineCollectionBundle:Default:index }
