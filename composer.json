@@ -1,7 +1,7 @@
 {
   "name" : "alexjumperman/doctrinecollection",
   "description" : "Doctrine 2 collection extension",
-  "version" : "1.0.0",
+  "version" : "1.0.1",
   "type" : "symfony-bundle",
   "keywords" : ["page", "page bundle"],
   "authors" : [{
